@@ -32,4 +32,4 @@ I am an undergraduate student at Rice University majoring in Computer Science an
 
 I am fortunate to be advised by Dr. Richard Baraniuk on language model alignment and its applications, as well as by Dr. Guha Balakrishnan on feature learning in CV.
 
-In the past, I collaborated with Dr. Reid Simmons at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked with Dr. Joseph Young at Rice University on person re-identification and localization.
+In the past, I worked with Dr. Reid Simmons at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked on person re-identification and localization with Dr. Joseph Young at Rice University.
