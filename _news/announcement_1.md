@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-28 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our short paper [Visualizing chest X-ray dataset biases using GANs](https://arxiv.org/abs/2305.00147) has been accepted to Medical Imaging with Deep Learning (MIDL) 2023.
