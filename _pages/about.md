@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. My research interests span both Natural Language Processing (NLP) and Computer Vision (CV). Specifically, I am interested in the following areas:
 
-- **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through alignment.
+- **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through fine-tuning and feedback learning.
 - **NLP in Education**: Leveraging language models to develop intelligenet tutoring systems that enable personalized and improved educationl experiences.
 - **Feature Learning**: Understanding biases of image and text feature representations and exploring methods to learn effective feature representations.
 
