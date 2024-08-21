@@ -24,12 +24,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an undergraduate student at Rice University majoring in Computer Science and Math. My research interests span both Natural Language Processing (NLP) and Computer Vision (CV). Specifically, I am interested in the following areas:
+I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. My research interests span both Natural Language Processing (NLP) and Computer Vision (CV). Specifically, I am interested in the following areas:
 
-- **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through text mining and alignment.
-- **NLP Applications in Education**: Leveraging language models to develop intelligenet tutoring systems that enable personalized and improved educationl experiences.
+- **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through alignment.
+- **NLP in Education**: Leveraging language models to develop intelligenet tutoring systems that enable personalized and improved educationl experiences.
 - **Feature Learning**: Understanding biases of image and text feature representations and exploring methods to learn effective feature representations.
 
-I am fortunate to be advised by Dr. Richard Baraniuk on language model alignment and its applications, as well as by Dr. Guha Balakrishnan on feature learning in CV.
+I am fortunate to be advised by Dr. Richard Baraniuk on language model alignment and its applications, as well as by Dr. Guha Balakrishnan on understanding and learning effective image feature representations.
 
 In the past, I worked with Dr. Reid Simmons at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked on person re-identification and localization with Dr. Joseph Young at Rice University.
