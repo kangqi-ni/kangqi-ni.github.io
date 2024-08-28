@@ -26,10 +26,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. My research interests span both Natural Language Processing (NLP) and Computer Vision (CV). Specifically, I am interested in the following areas:
 
-- **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through fine-tuning and feedback learning.
-- **NLP in Education**: Leveraging language models to develop intelligenet tutoring systems that enable personalized and improved educationl experiences.
-- **Feature Learning**: Understanding biases of image and text feature representations and exploring methods to learn effective feature representations.
+- **Domain-Specific Language Models**: Developing specialized language models that serve as personalized, intelligent agents tailored to the needs of different communities.
+- **Responsible and Reliable Vision Models**: Analyzing and mitigating biases in vision models to achieve equitable and robust feature representations.
 
-I am fortunate to be advised by Dr. Richard Baraniuk on language model alignment and its applications, as well as by Dr. Guha Balakrishnan on understanding and learning effective image feature representations.
+I am fortunate to be advised by Dr. Richard Baraniuk on developing domain-specific language models, as well as by Dr. Guha Balakrishnan on advancing responsible and reliable vision models.
 
 In the past, I worked with Dr. Reid Simmons at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked on person re-identification and localization with Dr. Joseph Young at Rice University.
+
+<!-- - **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through fine-tuning and feedback learning. -->
+<!-- - **NLP in Education**: Leveraging language models to develop intelligenet tutoring systems that enable personalized and improved educationl experiences. -->
