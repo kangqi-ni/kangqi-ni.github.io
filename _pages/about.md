@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. My research interests span both Natural Language Processing (NLP) and Computer Vision (CV). Specifically, I am interested in the following areas:
 
-- **Domain-Specific Language Models**: Developing specialized language models that serve as personalized, intelligent agents tailored to the needs of different communities.
+- **Domain-Specific Language Models**: Developing cost-effective, specialized language models that serve as personalized, intelligent agents tailored to the needs of different communities.
 - **Responsible and Reliable Vision Models**: Analyzing and mitigating biases in vision models to achieve equitable and robust feature representations.
 
 I am fortunate to be advised by Dr. Richard Baraniuk on developing domain-specific language models, as well as by Dr. Guha Balakrishnan on advancing responsible and reliable vision models.
