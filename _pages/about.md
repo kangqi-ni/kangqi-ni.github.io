@@ -24,14 +24,14 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. My research interests span both Natural Language Processing (NLP) and Computer Vision (CV). Specifically, I am interested in the following areas:
+I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. My research interests span both Natural Language Processing and Computer Vision. Specifically, I have worked in the following areas:
+
+<!-- - Human-Centered NLP for Social Good: Advancing language models for human-centered, social good applications.
+- Responsible and Reliable Vision Models: Analyzing and mitigating biases in vision models to achieve equitable and robust feature representations. -->
 
 - **Domain-Specific Language Models**: Developing cost-effective, specialized language models that serve as intelligent agents tailored to various needs.
 - **Responsible and Reliable Vision Models**: Analyzing and mitigating biases in vision models to achieve equitable and robust feature representations.
 
-I am fortunate to be advised by Dr. Richard Baraniuk on developing domain-specific language models, as well as by Dr. Guha Balakrishnan on advancing responsible and reliable vision models.
+I am advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) on developing domain-specific language models, as well as by [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/) on advancing responsible and reliable vision models.
 
-In the past, I worked with Dr. Reid Simmons at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked on person re-identification and localization with Dr. Joseph Young at Rice University.
-
-<!-- - **Language Model Alignment**: Enhancing the reasoning and conversational capabilities of Large Language Models (LLMs) through fine-tuning and feedback learning. -->
-<!-- - **NLP in Education**: Leveraging language models to develop intelligenet tutoring systems that enable personalized and improved educationl experiences. -->
+In the past, I worked with [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked on person re-identification and localization with [Dr. Joseph Young](https://jy46.github.io/) at Rice University.
