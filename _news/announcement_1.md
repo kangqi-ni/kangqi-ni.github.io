@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our short paper [Visualizing chest X-ray dataset biases using GANs](https://arxiv.org/abs/2305.00147) has been accepted to Medical Imaging with Deep Learning (MIDL) 2023.
+Our short paper [Visualizing Chest X-ray Dataset Biases Using GANs](https://arxiv.org/abs/2305.00147) has been accepted to Medical Imaging with Deep Learning (MIDL) 2023.
