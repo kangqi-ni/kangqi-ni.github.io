@@ -31,6 +31,6 @@ I am an undergraduate student at Rice University majoring in Computer Science an
 - **Human-Centric Language Models**: Developing specialized language models that serve as intelligent agents, tailored to address specific social needs.
 - **Responsible and Reliable Vision Models**: Analyzing and mitigating biases in vision models to achieve equitable and robust feature representations.
 
-I am advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) on domain-specific language models, as well as by [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/) on responsible and reliable vision models.
+I am advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) on human-centric language models, as well as by [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/) on responsible and reliable vision models.
 
 In the past, I worked with [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at Carnegie Mellon University on adaptive human-robot interaction. Prior to that, I worked on person re-identification and localization with [Dr. Joseph Young](https://jy46.github.io/) at Rice University.
