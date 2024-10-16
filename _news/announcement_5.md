@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my internship with the Machine Learning team at EdLight PCB.
+I have started my internship with the Machine Learning team at [EdLight, PBC](https://www.edlight.com/about).
