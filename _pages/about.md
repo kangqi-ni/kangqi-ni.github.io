@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an undergraduate student at Rice University majoring in Computer Science and Mathematics. 
+I am an undergraduate student at Rice University majoring in Computer Science and Mathematics.
 My research focuses on advancing AI solutions for **social applications within language and vision domains**. Specifically, I have worked in the following areas:
 
 - Improving language models' conversational and reasoning abilities in complex and specialized social context.
@@ -33,4 +33,3 @@ My research focuses on advancing AI solutions for **social applications within l
 During my undergraduate studies at Rice University, I am advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/).
 
 In the past, I worked with [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at Carnegie Mellon University on human-robot interaction and [Dr. Joseph Young](https://jy46.github.io/) at Rice University on person re-identification and localization.
-

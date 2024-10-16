@@ -32,14 +32,16 @@ layout: default
             cache_bust=true
           %}
 
-          {% comment %} <!-- Social -->
-          {% if page.social %}
-            <div class="social">
-              <div class="contact-icons">{% include social.liquid %}</div>
+          {% comment %}
+            <!-- Social -->
+            {% if page.social %}
+              <div class="social">
+                <div class="contact-icons">{% include social.liquid %}</div>
 
-              <div class="contact-note">{{ site.contact_note }}</div>
-            </div>
-          {% endif %} {% endcomment %}
+                <div class="contact-note">{{ site.contact_note }}</div>
+              </div>
+            {% endif %}
+          {% endcomment %}
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
