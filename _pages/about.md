@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I am an undergraduate student at Rice University majoring in Computer Science and Mathematics.
-My research focuses on advancing AI solutions for **social applications within language and vision domains**. Specifically, I have worked in the following areas:
+My research focuses on designing **high-performing, responsible AI solutions for social applications within language and vision domains**. Specifically, I have worked in the following areas:
 
 - Improving language models' conversational and reasoning abilities in complex and specialized social context.
 - Analyzing and mitigating vision models' biases in visual feature representations.
