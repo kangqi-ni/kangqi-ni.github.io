@@ -27,8 +27,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am an undergraduate student at Rice University majoring in Computer Science and Mathematics.
 My research focuses on designing **high-performing, responsible AI solutions for social applications within language and vision domains**. Specifically, I have worked in the following areas:
 
-- Improving LLMs' conversational and reasoning abilities in socially-grounded contexts.
-- Analyzing vision models' biases in feature representations to ensure ethical use.
+- Improving LLMs' conversational and reasoning abilities in socially grounded contexts.
+- Analyzing and mitigating vision models' biases in feature representations to promote responsible use.
 
 During my undergraduate studies at Rice University, I am advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/).
 
