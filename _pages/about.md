@@ -24,12 +24,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am an undergraduate student at Rice University majoring in Computer Science and Mathematics.
-My research focuses on designing **high-performing, responsible AI solutions for social applications within language and vision domains**. Specifically, I have worked in the following areas:
+I am a first-year PhD student in Computer Science at the University of North Carolina, Chapel Hill, advised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/). 
 
-- Improving LLMs' conversational and reasoning abilities in socially grounded contexts.
-- Analyzing vision models' biases in feature representations to promote responsible use.
+I earned my B.S. in Computer Science and B.A in Mathematics at Rice University, where I was advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/). Previously, I was also hosted by [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at the Robotics Institute, Carnegie Mellon University.
 
-During my undergraduate studies at Rice University, I am advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/).
-
-In the past, I worked with [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at Carnegie Mellon University on human-robot interaction and [Dr. Joseph Young](https://jy46.github.io/) at Rice University on person re-identification and localization.
+My research broadly focuses on Language and Vision, especially in:
+- LLM Reasoning
+- Multimodal Learning

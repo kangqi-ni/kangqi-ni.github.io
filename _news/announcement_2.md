@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-06-01 00:00:00-0000
+date: 2024-09-20 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-I have joined the Robotics Institute Summer Scholars (RISS) 2023 program at Carnegie Mellon University.
+Our long paper [Pedagogical Alignment of Large Language Models](https://arxiv.org/pdf/2402.05000) has been accepted to Findings of the Association for Computational Linguistics: EMNLP 2024.
