@@ -24,10 +24,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a first-year PhD student in Computer Science at the University of North Carolina, Chapel Hill, advised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/). 
+I am a first-year PhD student in Computer Science at the University of North Carolina, Chapel Hill, advised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/).
 
 I earned my B.S. in Computer Science and B.A in Mathematics at Rice University, where I was advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/). Previously, I was also hosted by [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at the Robotics Institute, Carnegie Mellon University.
 
 My research broadly focuses on Language and Vision, especially in:
+
 - LLM Reasoning
 - Multimodal Learning
