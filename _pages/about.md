@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a first-year PhD student in Computer Science at the [University of North Carolina, Chapel Hill](https://www.unc.edu/), advised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/).
 
-I earned my B.S. in Computer Science and B.A in Mathematics at Rice University, where I was advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/). Previously, I was also hosted by [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at the Robotics Institute, Carnegie Mellon University.
+I earned my B.S. in Computer Science and B.A. in Mathematics at Rice University, where I was advised by [Dr. Richard Baraniuk](https://richb.rice.edu/) and [Dr. Guha Balakrishnan](https://www.guhabalakrishnan.com/). Previously, I was also hosted by [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/) at the Robotics Institute, Carnegie Mellon University.
 
 My research broadly focuses on Language and Vision, especially in:
 
