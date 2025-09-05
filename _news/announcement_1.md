@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the Robotics Institute Summer Scholars (RISS) 2023 program at Carnegie Mellon University.
+I have started the Robotics Institute Summer Scholars (RISS) 2023 program at Carnegie Mellon University.
