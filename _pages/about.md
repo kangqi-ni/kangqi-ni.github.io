@@ -30,5 +30,5 @@ I earned my B.S. in Computer Science and B.A. in Mathematics at Rice University,
 
 My research broadly focuses on Language and Vision, especially in:
 
-- LLM Reasoning
+- Reinforcement Learning for LLMs
 - Multimodal Learning
