@@ -1,12 +1,24 @@
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: amirpourmand/al-folio:latest
-    build: .
+    # Pinned deliberately. `latest` is built FROM ruby:latest, which is now
+    # Ruby 4.0 -- no precompiled google-protobuf exists for that ABI, so it
+    # falls back to compiling protobuf 4.27.2 from C source, which fails.
+    # v0.12.1 ships Ruby 3.3.5, matching the versions in Gemfile.lock.
+    image: amirpourmand/al-folio:v0.12.1
+    #build: .
     ports:
       - 8080:8080
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+      # Persist installed gems so `bundle install` only pays for itself once.
+      - bundle:/usr/local/bundle
     environment:
       - JEKYLL_ENV=development
+    # This image's entry point does not install gems, so install the versions
+    # pinned in Gemfile.lock before handing off to it.
+    command: bash -c "bundle install && exec /tmp/entry_point.sh"
+
+volumes:
+  bundle:
